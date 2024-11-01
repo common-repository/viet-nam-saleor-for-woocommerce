@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Viet Nam saleor for WooCommerce\n"
+"POT-Creation-Date: 2020-09-21 21:40+0700\n"
+"PO-Revision-Date: 2020-09-21 21:40+0700\n"
+"Last-Translator: Anh Nguyen <nvtienanh@gmail.com>\n"
+"Language-Team: https://github.com/nvtienanh/viet-nam-saleor-for-woocommerce\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;esc_html__;_x\n"
+"X-Poedit-SearchPath-0: class\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: viet-nam-saleor-for-woocommerce.php\n"
+
+#: class/shipping-method-ghtk.php:18 viet-nam-saleor-for-woocommerce.php:185
+msgid "Giao hang tiet kiem"
+msgstr "Giao hàng tiết kiệm"
+
+#: class/shipping-method-ghtk.php:19
+msgid "Enable shipping service GHTK"
+msgstr "Bật dịch vụ GHTK"
+
+#: class/shipping-method-ghtk.php:79
+msgid "Activate shipping service GHTK"
+msgstr "Kích hoạt dịch vụ GHTK"
+
+#: class/shipping-method-ghtk.php:81 class/shipping-method-vtp.php:81
+msgid "Enable"
+msgstr "Cho phép"
+
+#: class/shipping-method-ghtk.php:85 class/shipping-method-vtp.php:85
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: class/shipping-method-ghtk.php:87 class/shipping-method-vtp.php:87
+msgid "Name of service to display for customer."
+msgstr "Tên dịch vụ hiển thị với khách hàng."
+
+#: class/shipping-method-ghtk.php:88
+msgid "GHTK"
+msgstr "Giao hàng tiết kiệm"
+
+#: class/shipping-method-ghtk.php:92 class/shipping-method-vtp.php:92
+#: viet-nam-saleor-for-woocommerce.php:127
+#: viet-nam-saleor-for-woocommerce.php:128
+msgid "First name"
+msgstr "Họ và tên"
+
+#: class/shipping-method-ghtk.php:99 class/shipping-method-vtp.php:99
+#: viet-nam-saleor-for-woocommerce.php:172
+msgid "Contact phone"
+msgstr "Số điện thoại"
+
+#: class/shipping-method-ghtk.php:106 class/shipping-method-vtp.php:106
+#: viet-nam-saleor-for-woocommerce.php:130
+#: viet-nam-saleor-for-woocommerce.php:131
+#: viet-nam-saleor-for-woocommerce.php:570
+msgid "Country / State"
+msgstr "Tỉnh/Thành phố"
+
+#: class/shipping-method-ghtk.php:115 class/shipping-method-vtp.php:115
+#: viet-nam-saleor-for-woocommerce.php:133
+#: viet-nam-saleor-for-woocommerce.php:134
+#: viet-nam-saleor-for-woocommerce.php:571
+msgid "City"
+msgstr "Quận/Huyện - Phường/Xã"
+
+#: class/shipping-method-ghtk.php:124 class/shipping-method-vtp.php:124
+msgid "Address 1"
+msgstr "Địa chỉ"
+
+#: class/shipping-method-ghtk.php:131 class/shipping-method-vtp.php:145
+msgid "API Token"
+msgstr "Mã API"
+
+#: class/shipping-method-vtp.php:18 class/shipping-method-vtp.php:88
+#: viet-nam-saleor-for-woocommerce.php:186
+msgid "Viettel Post"
+msgstr "Viettel Post"
+
+#: class/shipping-method-vtp.php:19
+msgid "Enable shipping service Viettel Post"
+msgstr "Bật dịch vụ Viettel Post"
+
+#: class/shipping-method-vtp.php:79
+msgid "Activate shipping service Viettel Post"
+msgstr "Kích hoạt dịch vụ Viettel Post"
+
+#: class/shipping-method-vtp.php:131
+msgid "Viettel Post account"
+msgstr "Tài khoản Viettel Post"
+
+#: class/shipping-method-vtp.php:138
+msgid "Viettel Post Password"
+msgstr "Mật khẩu Viettel Post"
+
+#: class/ultility.php:295
+#, php-format
+msgid "GHTK: Created tracking number: %s"
+msgstr "GHTK: Đã tạo vận đơn: %s"
+
+#: class/ultility.php:302
+#, php-format
+msgid "GHTK: has an error: %s"
+msgstr "GHTK báo lỗi: %s"
+
+#: class/ultility.php:336
+#, php-format
+msgid "GHTK: %s"
+msgstr "GHTK: %s"
+
+#: class/ultility.php:342
+#, php-format
+msgid "GHTK: Cancel request has error: %s"
+msgstr "GHTK: Hủy vận đơn gặp lỗi: %s"
+
+#: class/ultility.php:349
+msgid "GHTK: This order doesn't have tracking id"
+msgstr "GHTK: Đơn hàng chưa được tạo vận đơn"
+
+#: class/ultility.php:454
+#, php-format
+msgid "VTP: Error %s"
+msgstr "VTP báo lỗi: %s"
+
+#: class/ultility.php:460
+#, php-format
+msgid "VTP: Create tracking number: %s"
+msgstr "VTP Đã tạo vận đơn: %s"
+
+#: class/ultility.php:468
+#, php-format
+msgid "VTP has an error: %s"
+msgstr "VTP báo lỗi: %s"
+
+#: class/ultility.php:500 class/ultility.php:511
+#, php-format
+msgid "VTP: Error: %s"
+msgstr "VTP: Lỗi: %s"
+
+#: class/ultility.php:506
+#, php-format
+msgid "VTP: Canceled tracking number: %s"
+msgstr "VTP Đã tạo vận đơn: %s"
+
+#: viet-nam-saleor-for-woocommerce.php:26
+msgid "You can not access this file directly!"
+msgstr ""
+
+#: viet-nam-saleor-for-woocommerce.php:165
+msgid "Contact phone:"
+msgstr "Số điện thoại:"
+
+#: viet-nam-saleor-for-woocommerce.php:181
+msgid "Shipping service:"
+msgstr "Dịch vụ giao hàng:"
+
+#: viet-nam-saleor-for-woocommerce.php:184
+msgid "Please select"
+msgstr "Vui lòng chọn"
+
+#: viet-nam-saleor-for-woocommerce.php:193
+msgid "Who will pay shipping fee?"
+msgstr "Người trả phí giao hàng?"
+
+#: viet-nam-saleor-for-woocommerce.php:196
+msgid "Customer"
+msgstr "Khách hàng"
+
+#: viet-nam-saleor-for-woocommerce.php:197
+msgid "Shop"
+msgstr "Cửa hàng"
+
+#: viet-nam-saleor-for-woocommerce.php:308
+msgid "Create tracking number"
+msgstr "Tạo vận đơn"
+
+#: viet-nam-saleor-for-woocommerce.php:309
+msgid "Cancel tracking number"
+msgstr "Hủy vận đơn"
+
+#: viet-nam-saleor-for-woocommerce.php:680
+msgid "Select an option&hellip;"
+msgstr "Vui lòng chọn&hellip;"
+
+#: viet-nam-saleor-for-woocommerce.php:748
+msgid "No matches found"
+msgstr "Không tìm thấy"
+
+#: viet-nam-saleor-for-woocommerce.php:749
+msgid "Loading failed"
+msgstr "Tải gặp lỗi"
+
+#: viet-nam-saleor-for-woocommerce.php:750
+msgid "Please enter 1 or more characters"
+msgstr "Vui lòng nhập ít nhất 2 ký tự"
+
+#: viet-nam-saleor-for-woocommerce.php:751
+msgid "Please enter %qty% or more characters"
+msgstr "Vui lòng nhập %qty% giá trị hoặc nhiều hơn"
+
+#: viet-nam-saleor-for-woocommerce.php:752
+msgid "Please delete 1 character"
+msgstr "Vui lòng xóa 1 ký tự"
+
+#: viet-nam-saleor-for-woocommerce.php:753
+msgid "Please delete %qty% characters"
+msgstr "Vui lòng xóa %qty% ký tự"
+
+#: viet-nam-saleor-for-woocommerce.php:754
+msgid "You can only select 1 item"
+msgstr "Bạn chỉ có thể chọn 1 giá trị"
+
+#: viet-nam-saleor-for-woocommerce.php:755
+msgid "You can only select %qty% items"
+msgstr "Bạn chỉ được chọn %qty% giá trị"
+
+#: viet-nam-saleor-for-woocommerce.php:756
+msgid "Loading more results&hellip;"
+msgstr "Hiện thêm kết quả&hellip;"
+
+#: viet-nam-saleor-for-woocommerce.php:757
+msgid "Searching&hellip;"
+msgstr "Đang tìm&hellip;"
+
+#~ msgid "State / County"
+#~ msgstr "Tỉnh/Thành phố"
